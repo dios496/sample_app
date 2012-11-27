@@ -11,7 +11,8 @@ end
 group :developement, :test do
  gem 'taps'
  gem 'rvm'
- gem 'rspec-rails', '2.0.0.beta.18'
+ gem 'rspec-rails', '2.8'
+ gem 'webrat'
 end
 
 # Gems used only for assets and not required
